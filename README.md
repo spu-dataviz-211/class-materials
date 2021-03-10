@@ -1,5 +1,7 @@
 # Class Materials
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spu-dataviz-211/class-materials/HEAD)
+
 Hi!
 
 This is the repository to find all everything about data visualization. You will find tutorials we did in the class, class notes, python files, etc.
@@ -27,7 +29,15 @@ The content on this repository is organized based on the topic.
 
 ### How to use this Repository?
 
-You should do the following while going over this repository.
+You can use this repository either locally or with [Binder](https://mybinder.org/).
+
+Binder is a tool that runs a repository into a collection of interactive notebooks. This will install [requirements.txt](requirements.txt) file into the backend server so that notebooks will already have all packages needed.
+
+Use the following link to create a binder for this repository. 
+
+> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spu-dataviz-211/class-materials/HEAD)
+
+To install locally, follow the list below.
 
 1. Download this repository to your local machine using `git clone https://github.com/spu-dataviz-211/class-materials.git`.
 2. Download python 3 from [python.org](https://www.python.org/), if you don't have python already on your computer.
