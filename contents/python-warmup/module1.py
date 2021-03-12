@@ -1,8 +1,8 @@
 from pathlib import Path
 
-PERSON1 = {​'name': 'John', ​
-           'age': 36, ​
-           'country': 'Norway'​}
+PERSON1 = {'name': 'John', 
+           'age': 36, 
+           'country': 'Norway'}
 
 
 def greeting(name):
@@ -27,7 +27,7 @@ class FolderOperations:
 
     def add_file(self, filename: str = 'Untitled.txt'):
         filepath = self.folderpath.joinpath(filename)
-        if not filepath.exists:
+        if not filepath.exists():
             filepath.touch()
 
         return filepath
