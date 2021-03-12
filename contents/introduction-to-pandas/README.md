@@ -7,7 +7,7 @@ We will go over on 2 repositories.
 ### Pandas Cookbook
 
 ``` sh
-git clone https://github.com/jvns/pandas-cookbook/tree/master/cookbook
+git clone https://github.com/jvns/pandas-cookbook.git
 ```
 
 1. Download repo to your local.
